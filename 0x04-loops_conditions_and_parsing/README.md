@@ -1,7 +1,16 @@
-# Shell Loops, Conditions,
-![](https://phoenixnap.com/kb/wp-content/uploads/2021/12/individual.sh-for-loop-script.png)
+# Loops, conditions and parsing
 
-## Use this command to generate RSA key `ssh-keygen -t rsa`
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIEJ22jbnI1jJTk2PE3kdy97YeVtSetsz1FjjJkANI7NHKlunRHY5WbM2fYodLe8x00q0&usqp=CAU" width="1000" height="300">
+
+
+Resources
+Read or watch:
+
+* [Loops sample](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_01.html)
+* [Variable assignment and arithmetic](https://tldp.org/LDP/abs/html/ops.html)
+* [Comparison operators](https://tldp.org/LDP/abs/html/comparison-ops.html)
+* [File test operators](https://tldp.org/LDP/abs/html/fto.html)
+* [Make your scripts portable](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)
 
 ## Learning objectives
 
@@ -32,3 +41,6 @@
 - `while`
 - `until`
 - `if`
+
+## Author
+___[INNOCENT CHARLES UDO](https://github.com/Innocentsax)___

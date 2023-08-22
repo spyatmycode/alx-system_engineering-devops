@@ -1,14 +1,22 @@
-![image](https://user-images.githubusercontent.com/105258746/188767412-2ac881ad-4583-491c-9f86-fa210d23a9db.png)
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/08/devops-architecture-1.png" width="1500" height="300">
 
-# ALX Software Engineering DevOps Track
+## What's DevOps
+DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
 
-## Description
-At ALX School `we do hard things`, the goal is not to be a good student rather the key goal is to be a good software Engineer. ALX_africa are on a mission to identify, develop and equip Africa’s next 3 million leaders. We have projects everyday that we have to push on GitHub in order for an automatic review to be done by `Ubuntu 20.04 LTS`. This repository contains directories each corresponding to a software engineering or DevOps project. These projects are part of the ALX Software Engineering year 1 curriculum. In these projects, we cover everything from the basics of the Linux Shell, Bash commands, Bash scripting, networking, APIs, and web-stack debugging to more advanced topics.
+## ***Everything you need to know about DevOps...***
+* DevOps is a set of practices that combines software development (Dev) and information technology operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps enables organizations to better serve their customers and compete more effectively in the market by breaking down silos between development and operations teams, enabling faster and more efficient delivery of software.
 
-## Table of contents
-DIRECTORIES | DESCRIPTION
---------- | -----------
-[0x00-shell_basics](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x00-shell_basics) | Introduction to the basics of the Linux Shell
-[0x01-shell_permissions](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x01-shell_permissions) | Introduction to Shell permissions and the file system
-[0x02-shell_redirections](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x02-shell_redirections) | Introduction to Shell redirections
-[0x03-shell_variables_expansions](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | Introduction to Shell variable expansions
+* The key principles of DevOps include automation, collaboration, monitoring, and measurement. Automation involves automating as much of the software development process as possible to reduce manual errors and increase efficiency. Collaboration involves breaking down silos between development and operations teams, promoting cross-functional communication and teamwork. Monitoring involves continuously monitoring the software development process and application performance to identify and address issues as quickly as possible. Measurement involves collecting and analyzing data to measure performance and identify areas for improvement.
+
+## ***DevOps Tools...***
+<!--![DevOps Tools](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNLscAlbR-vZh4AupxD8YmZMHsIUE9R2eYA&usqp=CAU)
+![DevOps Tools](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bS0rsaVVoKhAbrIAc2uBjQ_1XqiaXvmHxw&usqp=CAU)-->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bS0rsaVVoKhAbrIAc2uBjQ_1XqiaXvmHxw&usqp=CAU" width="1500" height="300">
+
+* Some common DevOps tools and technologies include continuous integration and continuous delivery (CI/CD), containerization (using tools like Docker and Kubernetes), infrastructure as code (IaC), and cloud computing. DevOps also involves cultural and organizational changes, including creating a culture of trust and collaboration, empowering teams to take ownership of their work, and embracing failure as an opportunity to learn and improve.
+
+* Overall, DevOps enables organizations to deliver software more quickly and reliably, while improving the quality of their products and services and enabling them to stay competitive in a rapidly changing market.
+
+## Author
+© ___[INNOCENT CHARLES UDO](https://github.com/Innocentsax)___
+
